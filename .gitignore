@@ -98,3 +98,5 @@ ENV/
 .idea
 
 *.part
+
+*.tgz
